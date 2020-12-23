@@ -159,7 +159,7 @@ body {
   position: absolute;
   width: 100vw;
   height: 500vh;
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/bg/3e74a3f7.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/bg/905fd457.png);
   padding: 0;
   margin: 0;
   top: 0;
@@ -373,7 +373,7 @@ body {
   width: 100%;
   height: 12.5%;
   text-align: center;
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/bg/3e74a3f7.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/bg/905fd457.png);
   animation: bg 5s;
 }
 
@@ -706,7 +706,7 @@ body {
   width: 50%;
   margin: auto;
   overflow: hidden;
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/bg/3e74a3f7.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/bg/905fd457.png);
   border-radius: 1%;
   padding: 5% 5%;
 }
@@ -1091,17 +1091,17 @@ body {
 
 .card.card1 {
   left: 12.5%;
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/pick/1.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/pick/1.png);
 }
 
 .card.card2 {
   left: 50%;
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/pick/2.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/pick/2.png);
 }
 
 .card.card3 {
   left: 87.5%;
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/pick/3.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/pick/3.png);
 }
 
 .card_info {
@@ -1130,15 +1130,15 @@ body {
 }
 
 .card_info.c_info1:before {
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/pick/1.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/pick/1.png);
 }
 
 .card_info.c_info2:before {
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/pick/2.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/pick/2.png);
 }
 
 .card_info.c_info3:before {
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/pick/3.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/pick/3.png);
 }
 
 .card:hover .card_info,
@@ -1439,7 +1439,7 @@ body {
   position: fixed;
   /*background: $cream;*/
   /*background-image: url(https://images.plurk.com/4G3rfaZfxPHS1G1c821qzq.png);*/
-  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Cephalopoda/gh-pages/bg/3e74a3f7.png);
+  background-image: url(https://raw.githubusercontent.com/87penginnouta/Cfood_Shellfish/gh-pages/bg/905fd457.png);
   width: 120vw;
   height: 100vh;
   left: -150vw;
