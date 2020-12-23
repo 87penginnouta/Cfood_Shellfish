@@ -1255,6 +1255,10 @@ body {
   left: 31%;
 }
 
+.prepare_pic.p3{
+  left:56%;
+}
+
 .prepare_content,
 .prepare_extra {
   position: absolute;
