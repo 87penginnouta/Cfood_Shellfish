@@ -1339,6 +1339,7 @@ body {
 .animal_compare {
   left: 75%;
   top: 50%;
+  transform:scale(-1);
 }
 
 @keyframes animal_up {
