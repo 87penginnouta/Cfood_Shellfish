@@ -1576,6 +1576,13 @@ body {
   top: 20%;
   box-shadow: 0 0 3vh rgba(0, 0, 0, 0.3);
   transform: translate(-50%);
+  animation:card 1s infinite;
+}
+
+@keyframes card{
+  0%{
+    transform: translate(-50%) scale(1.05);
+  }
 }
 
 .prepare_pic.p1 {
