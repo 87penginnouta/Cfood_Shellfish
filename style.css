@@ -1347,21 +1347,21 @@ body {
 
 @keyframes a_02 {
   50% {
-    content: url("./img/animal/a_02.png");
+    content: url("./img/animal/a_021.png");
   }
 
   100% {
-    content: url("./img/animal/02.png");
+    content: url("./img/animal/021.png");
   }
 }
 
 @keyframes a_06 {
   50% {
-    content: url("./img/animal/a_06.png");
+    content: url("./img/animal/a_061.png");
   }
 
   100% {
-    content: url("./img/animal/06.png");
+    content: url("./img/animal/061.png");
   }
 }
 
