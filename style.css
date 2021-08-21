@@ -1684,37 +1684,37 @@ body {
 .water_card.w1 {
   top: 20%;
   left: 25%;
-  background-image: url("./img/animal/01.png");
+  background-image: url("./img/animal/011.png");
 }
 
 .water_card.w2 {
   top: 20%;
   left: 50%;
-  background-image: url("./img/animal/02.png");
+  background-image: url("./img/animal/021.png");
 }
 
 .water_card.w3 {
   top: 20%;
   left: 75%;
-  background-image: url("./img/animal/03.png");
+  background-image: url("./img/animal/031.png");
 }
 
 .water_card.w4 {
   top: 55%;
   left: 25%;
-  background-image: url("./img/animal/04.png");
+  background-image: url("./img/animal/041.png");
 }
 
 .water_card.w5 {
   top: 55%;
   left: 50%;
-  background-image: url("./img/animal/05.png");
+  background-image: url("./img/animal/051.png");
 }
 
 .water_card.w6 {
   top: 55%;
   left: 75%;
-  background-image: url("./img/animal/06.png");
+  background-image: url("./img/animal/061.png");
 }
 
 .water_card:hover .water_info {
